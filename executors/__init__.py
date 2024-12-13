@@ -1,0 +1,2 @@
+from .Vikhr_Nemo_12B_Instruct import init_vikhr_model
+from .whisper_executor import init_whisper_model
